@@ -9,7 +9,7 @@ If there's a dataset, chances are I’ll explore it, model it, and try to improv
 My main stack is Python, NumPy, pandas, and scikit-learn.  
 I focus on model evaluation, feature engineering, and building end-to-end ML systems.
 
-I’m currently building and refining real-world ML projects — check out my pinned repos.
+I’m currently building and refining real-world ML projects. 
 
 ---
 
