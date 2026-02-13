@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**JGill164/JGill164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jason, a Data Science student at Simon Fraser University.
 
-Here are some ideas to get you started:
+I build practical machine learning projects and clean analytics workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If there's a dataset, chances are I’ll explore it, model it, and try to improve it.
+
+My main stack is Python, NumPy, pandas, and scikit-learn.  
+I focus on model evaluation, feature engineering, and building end-to-end ML systems.
+
+I’m currently building and refining real-world ML projects — check out my pinned repos.
+
+---
+
+📫 jasongill164@gmail.com  
+🔗 linkedin.com/in/jasongill447
